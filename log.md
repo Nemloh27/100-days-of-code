@@ -21,3 +21,12 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.org/fcc6c7eeaab-b5b2-4ca4-9b77-eb8c9d39062f
+
+### Day 0: January 3, 2018 ###
+
+**Today's Progress**: I spent time creating my freeCodeCamp weather app
+
+**Thoughts**: Today's progress was good but slower than I liked.  I was able to complete a basic celsius to farenheit calculation and solved the longitude\latitude problem.  Tomomorrow I will need to build in additional logic to toggle in place celsius and farenheit.
+
+**Link(s) to work**:
+1. https://codepen.io/Nemloh27/pen/pdVRrJ?editors=1010
