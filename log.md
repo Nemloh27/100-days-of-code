@@ -22,11 +22,21 @@
 **Link(s) to work**
 1. https://www.freecodecamp.org/fcc6c7eeaab-b5b2-4ca4-9b77-eb8c9d39062f
 
-### Day 0: January 3, 2018 ###
+### Day 2: January 3, 2018 ###
 
 **Today's Progress**: I spent time creating my freeCodeCamp weather app
 
 **Thoughts**: Today's progress was good but slower than I liked.  I was able to complete a basic celsius to farenheit calculation and solved the longitude\latitude problem.  Tomomorrow I will need to build in additional logic to toggle in place celsius and farenheit.
+
+**Link(s) to work**:
+1. https://codepen.io/Nemloh27/pen/pdVRrJ?editors=1010
+
+
+### Day 3: January X, 2018 ###
+
+**Today's Progress**: Completed the user stories for the weather app.  
+
+**Thoughts**: So today I completed the stories for hte FCC weather app.  There is certainly room for improvement but at this time I wanted to complete the challenge and move on to the next task.  Maybe one day I will revisit to pretty it up a little bit.
 
 **Link(s) to work**:
 1. https://codepen.io/Nemloh27/pen/pdVRrJ?editors=1010
