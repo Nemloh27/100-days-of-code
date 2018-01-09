@@ -49,3 +49,12 @@
 
 **Link(s) to work**:
 1. https://codepen.io/Nemloh27/pen/rpGWwP?editors=0010
+
+### Day 8 : January 9, 2018 ###
+
+**Today's Progress**: Worked on Wiki Viewer web page
+
+**Thoughts**: Finally getting the hang of pulling information from the wikipedia API.  Now just need to make sure I am pulling down what I want to see.  Results are being displayed both in console and on the page itself. Need to work on formatting and make it pretty.
+
+**Link(s) to work**:
+1. https://codepen.io/Nemloh27/pen/rpGWwP?editors=0010
