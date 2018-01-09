@@ -32,7 +32,7 @@
 1. https://codepen.io/Nemloh27/pen/pdVRrJ?editors=1010
 
 
-### Day 3: January X, 2018 ###
+### Day 3: January 4, 2018 ###
 
 **Today's Progress**: Completed the user stories for the weather app.  
 
@@ -40,3 +40,12 @@
 
 **Link(s) to work**:
 1. https://codepen.io/Nemloh27/pen/pdVRrJ?editors=1010
+
+### Day 4 -7 : January 5 - 8, 2018 ###
+
+**Today's Progress**: Worked on Wiki Viewer web page
+
+**Thoughts**: Didn't have a ton of time over the weekend to work on the webpage.  WHad visitors from out of town and was out as well.  Need to focus back on this and get down to business again.  Struggling with the ajax queries for wiki API and turning it into something.
+
+**Link(s) to work**:
+1. https://codepen.io/Nemloh27/pen/rpGWwP?editors=0010
