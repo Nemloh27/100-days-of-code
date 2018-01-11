@@ -58,3 +58,12 @@
 
 **Link(s) to work**:
 1. https://codepen.io/Nemloh27/pen/rpGWwP?editors=0010
+
+### Day 9, 10 : January 10 + 11, 2018 ###
+
+**Today's Progress**: Worked on Wiki Viewer web page
+
+**Thoughts**: Taking my time on the wiki viewer.  Trying to make it look nicer than the basic MVP.  Spend some time messing with boostrap and cleaning up the front end.
+
+**Link(s) to work**:
+1. https://codepen.io/Nemloh27/pen/rpGWwP?editors=0010
