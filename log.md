@@ -67,3 +67,21 @@
 
 **Link(s) to work**:
 1. https://codepen.io/Nemloh27/pen/rpGWwP?editors=0010
+
+### Day 11 : January 12, 2018 ###
+
+**Today's Progress**: Ridiculous day.  Sadly wasn't able to code.
+
+**Thoughts**: 
+
+**Link(s) to work**:
+1. https://codepen.io/Nemloh27/pen/rpGWwP?editors=0010
+
+### Day 12 : January 13, 2018 ###
+
+**Today's Progress**: RFinished up Wiki viewer.  
+
+**Thoughts**: Spent a lot of time with flexbox getting a feel for that.  Worked on key captures etc.  Overall feeling pretty good about wiki viewer.
+
+**Link(s) to work**:
+1. https://codepen.io/Nemloh27/pen/rpGWwP?editors=0010
