@@ -85,3 +85,21 @@
 
 **Link(s) to work**:
 1. https://codepen.io/Nemloh27/pen/rpGWwP?editors=0010
+
+### Day 13 : January 14, 2018 ###
+
+**Today's Progress**: Another missed day...
+
+**Thoughts**: 
+
+**Link(s) to work**:
+1. 
+
+### Day 14 : January 15, 2018 ###
+
+**Today's Progress**: Started on FCC Twitch App
+
+**Thoughts**: This will be the first time working with nested API calls.  Hopefully isn't that hard but might take a litte bit as I wanted it to look pretty snazy.
+
+**Link(s) to work**:
+1. https://codepen.io/Nemloh27/pen/vpabOy?editors=1010
