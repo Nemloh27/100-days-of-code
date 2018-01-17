@@ -103,3 +103,21 @@
 
 **Link(s) to work**:
 1. https://codepen.io/Nemloh27/pen/vpabOy?editors=1010
+
+### Day 15 : January 16, 2018 ###
+
+**Today's Progress**: Another failed day
+
+**Thoughts**: Failed day.  Too much happening at work and with children not sleeping at night.  Poor excuse
+
+**Link(s) to work**:
+1. https://codepen.io/Nemloh27/pen/vpabOy?editors=1010
+
+### Day 16 : January 17, 2018 ###
+
+**Today's Progress**: Continued work on Twitch App
+
+**Thoughts**: Got nested API calls working.  Now just refining what I am going to use and how to display it.
+
+**Link(s) to work**:
+1. https://codepen.io/Nemloh27/pen/vpabOy?editors=1010
